@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/items0"
+            android:actionMenuTextColor="@color/pinkclr"
+            android:checked="false"
+            android:icon="@drawable/ic_home"
+            android:title="@string/title_home" />
+
+        <item
+            android:id="@+id/items1"
+            android:actionMenuTextColor="@color/pinkclr"
+            android:checked="false"
+            android:icon="@drawable/ic_menu1"
+            android:title="@string/title_about" />
+
+        <item
+            android:id="@+id/items2"
+            android:actionMenuTextColor="@color/pinkclr"
+            android:checked="false"
+            android:icon="@drawable/ic_menu2"
+            android:title="@string/title_breastcancer" />
+
+        <item
+            android:id="@+id/items3"
+            android:actionMenuTextColor="@color/pinkclr"
+            android:checked="false"
+            android:icon="@drawable/ic_menu3"
+            android:title="@string/title_benign" />
+
+        <item
+            android:id="@+id/items4"
+            android:actionMenuTextColor="@color/pinkclr"
+            android:checked="false"
+            android:icon="@drawable/ic_menu5"
+            android:title="@string/title_myths" />
+
+
+        <item
+            android:id="@+id/items5"
+            android:actionMenuTextColor="@color/pinkclr"
+            android:checked="false"
+            android:icon="@drawable/ic_menu4"
+            android:title="@string/title_pink" />
+
+
+        <item
+            android:id="@+id/items6"
+            android:actionMenuTextColor="@color/pinkclr"
+            android:checked="false"
+            android:icon="@drawable/ic_menu6"
+            android:title="@string/title_video" />
+
+   <!--     <item
+            android:id="@+id/items7"
+            android:actionMenuTextColor="@color/pinkclr"
+            android:checked="false"
+            android:icon="@drawable/ic_menu6"
+            android:title="New Myths &amp; Facts" />
+
+-->
+
+    </group>
+
+</menu>

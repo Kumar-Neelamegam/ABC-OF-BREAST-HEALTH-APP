@@ -1,0 +1,108 @@
+﻿<resources>
+    <string name="app_name">
+రొమ్ము ఆరోగ్యంय</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="footer_txt">Powered by Devatech Info Systems Pvt. Ltd.</string>
+
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf</string>
+    <string name="download">Tap to start download</string>
+    <string name="asset_on_sd">Asset on SD card example</string>
+    <string name="asset_on_xml">Asset on XML example</string>
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="std_example">PdfViewPager examples</string>
+    <string name="ready">Ready to download</string>
+    <string name="legacy_pdf">Legacy PDF Example (Pre-Lollipop)</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded_wait">Download Complete. Now opening PDF, Wait a moment please...</string>
+    <string name="flaticon_attr">BTW, all icons are from www.flaticon.com</string>
+    <string name="txt1">This is a PDF document, declared on XML, set up by code.</string>
+    <string name="menu_sample2_txt">Open remote PDF sample</string>
+    <string name="menu_sample3_txt">PDF on your SD sample</string>
+    <string name="menu_sample4_txt">PDF as asset (code) sample</string>
+    <string name="menu_sample5_txt">PDF as asset (XML) sample</string>
+    <string name="menu_sample6_txt">Pre-lollipop PDF download and launch</string>
+    <string name="menu_sample8_txt">Zoomable PDF (PhotoView)</string>
+    <string name="menu_sample9_txt">Example with initial scale</string>
+    <string name="dummy_msg">This sample PDF here &gt;&gt;\nis declared by code</string>
+    <string name="zoomable_asset_on_xml">Zoomable PDF on XML Example</string>
+    <string name="page_was_clicked">Page was clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">મેળવવી સર્વર તરફથી પ્રશ્નો</string>
+
+
+
+    <string name="title_txt">Title</string>
+
+    <string name="txt_about"><![CDATA[<P> ఉన్నా మీ వయస్సు, మీ ఛాతీ ఆరోగ్యంగా ఉంచడానికి దీన్ని ఏమిటి సాధారణ మరియు ఏమిటి కాదు తెలుసుకోవడానికి సహాయపడుతుంది. ఇది సమస్యల సంకేతాలను జరిగి మార్పులు లుకౌట్ మీరు చాలు ఉంటుంది. </ P>
+<P> మీ శరీరం యొక్క ఏదైనా భాగం వంటి, జీవితం యొక్క వివిధ దశలలో ఆశించిన ఏమి కనుగొనేందుకు. </ P>
+<P> "మీ ఛాతీ చూసి లాగ suddently భిన్నంగా ఉన్నప్పుడు మీరు గుర్తించి సహాయపడుతుంది అనుభూతి ఏమి తెలుసుకున్న" పమేలా Peeke, ఎం.డి., మహిళల లైఫ్ కోసం శరీర రచయిత అన్నారు. "అదే విధంగా మీరు శ్రద్ధ మీ చర్మం, మీరు మీ ఛాతీ శ్రద్ద ఉండాలి చెల్లించడానికి మరియు కొత్త మోల్స్ చూడటానికి." </ P>
+<P> మీ డాక్టర్ మీ వార్షిక ఆగమనాన్ని మీరు ఒక రొమ్ము పరీక్ష ఇవ్వవచ్చు, ఎలా ఇంటిలో స్వీయ పరీక్ష చేయడానికి మీరు నేర్పుతుంది ఉండవచ్చు. రీసెర్చ్ చేయని రొమ్ము పరీక్షలకు జీవితాలను సేవ్ లేదా అంతకు క్యాన్సర్లు గుర్తించి ఆ చూపించు, కానీ అనేక మంది వైద్యులు ఇంకా వాటిని సిఫార్సు, మరియు దాని ఎప్పుడూ మంచి ఆలోచన మీ శరీరం తెలుసుకోవాలి మరియు మీరు ఏ మార్పులు గమనించవచ్చు ఉంటే మీ వైద్యుడు తెలియజేయండి. </ P>
+<P> <strong> ఏమిటి సాధారణ, ఏమిటి మీరు </ strong> <br /> మీరు కొన్నిసార్లు మీ రొమ్ము "కుడి" చూడండి dont ఆందోళన ఉండవచ్చు /> <br. కానీ విషయాలు మహిళలు గురించి ఆందోళన చెందుతున్నారు నిజానికి ఆ అసాధారణ ఉన్నాయి అత్యంత, Peeke చెప్పారు. </ P>
+]]></string>
+
+
+
+    <string name="title_about">વિષયવસ્તુ</string>
+    <string name="title_breastcancer">સ્તન કેન્સર</string>
+    <string name="title_benign">સૌમ્ય સ્તન સમસ્યાઓ</string>
+    <string name="title_pink">ગુલાબી જોડાણ</string>
+
+    <string name="title_video">જીવન માટે જાગૃતિ</string>
+    <string name="title_myths">માન્યતાઓ અને હકીકતો</string>
+
+
+    <string name="information">માહિતી</string>
+    <string name="message">તમે ખાતરી કરો કે બહાર નીકળવા માંગો છો?</string>
+    <string name="yes">હા</string>
+    <string name="no">માન્યતા અથવા હકીકત?</string>
+    <string name="nodata_available">કોઈ ડેટા આ માટે ઉપલબ્ધ</string>
+    <string name="language">ભાષા</string>
+    <string name="ok">ઠીક છે</string>
+    <string name="read_more">વધુ વાંચો</string>
+
+    <string name="novideo">કોઈ વિડિઓ આ ભાષા માટે ઉપલબ્ધ</string>
+    <string name="title_video1">સ્તન કેન્સર જાગૃતિ  વિડિઓઝ</string>
+    <string name="nointernet">કોઈ ઇન્ટરનેટ કનેક્ટિવિટી .. પછી પ્રયાસ કરો ..</string>
+    <string name="instruct">* સ્વાઇપ આગામી પાનું * ચપટી સામગ્રી ઝૂમ પર જવા માટે</string>
+    <string name="runtime_permissions_txt">એપ્લિકેશન સેટિંગ્સ પાસેથી તમામ જરૂરી મંજૂરી સક્ષમ કૃપા કરીને.</string>
+    <string name="swipe">આગામી પાનું ખસેડવા માટે સ્વાઇપ</string>
+    <string name="title_home">હોમ</string>
+
+    <string name="zoom">સામગ્રી ઝૂમ ચપટી</string>
+    <string name="txt_mnth1">નવેમ્બર - જાન્યુઆરી</string>
+    <string name="txt_mnth2">ફેબ્રુઆરી - એપ્રિલ</string>
+    <string name="txt_mnth3">મે - જુલાઈ</string>
+    <string name="txt_mnth4">ઓગસ્ટ - ઓક્ટોબર</string>
+    <string name="txt_volume1">વોલ્યુમ 1 મુદ્દો 3</string>
+    <string name="txt_volume2">વોલ્યુમ 2 મુદ્દો 3</string>
+    <string name="txt_volume4">વોલ્યુમ 3 મુદ્દો 3</string>
+    <string name="txt_volume5">વોલ્યુમ 6 મુદ્દો 3</string>
+    <string name="txt_volume6">વોલ્યુમ 7 મુદ્દો 3</string>
+    <string name="txt_volume7">વોલ્યુમ 4 મુદ્દો 3</string>
+    <string name="txt_volume8">વોલ્યુમ 3 મુદ્દો 2</string>
+    <string name="year1">વર્ષ 2014</string>
+    <string name="year2">વર્ષ 2015</string>
+    <string name="year3">વર્ષ 2016</string>
+    <string name="year4">વર્ષ 2017</string>
+
+    <string name="ans_correct">તમે સાચા છો </string>
+    <string name="ans_not_quite">તદ્દનનહીં!  </string>
+    <string name="btn_done">થઈ ગયું </string>
+    <string name="btn_fact">હકીકત</string>
+    <string name="btn_myth">માન્યતા</string>
+    <string name="explore">શોધ કરો   </string>
+    <string name="getting_question">સર્વરમાંથી પ્રશ્નો મેળવી રહ્યું છે   </string>
+    <string name="info">માહિતી</string>
+    <string name="myth_or_fact">માન્યતા અથવા હકીકત? </string>
+    <string name="no_internet">કોઈ ઇન્ટરનેટ કનેક્શન ઉપલબ્ધ નથી. તાજેતરની માન્યતા / હકીકત સાથે અદ્યતન રહેવા માટે ઇન્ટરનેટ સાથે જોડાયેલ રહો  </string>
+    <string name="please_wait">મહેરબાની કરી રાહ જુવો...   </string>
+    <string name="str_ok">ઠીક છે   </string>
+    <string name="str_verify_ans">તમારા જવાબની ચકાસણી થઈ રહી છે    </string>
+    <string name="that_s_it_for_today_n_why_not_explore">તે આજ માટે છે. શા માટે શોધ ન કરવી?   </string>
+    <string name="your_score">તમારો સ્કોર   </string>
+
+
+</resources>

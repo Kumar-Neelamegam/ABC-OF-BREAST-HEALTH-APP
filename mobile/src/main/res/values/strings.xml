@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Breast Health\n
+        Information</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="footer_txt">Powered by Devatech Info Systems Pvt. Ltd.</string>
+
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf</string>
+    <string name="download">Tap to start download</string>
+    <string name="asset_on_sd">Asset on SD card example</string>
+    <string name="asset_on_xml">Asset on XML example</string>
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="std_example">PdfViewPager examples</string>
+    <string name="ready">Ready to download</string>
+    <string name="legacy_pdf">Legacy PDF Example (Pre-Lollipop)</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded_wait">Download Complete. Now opening PDF, Wait a moment please...</string>
+    <string name="flaticon_attr">BTW, all icons are from www.flaticon.com</string>
+    <string name="txt1">This is a PDF document, declared on XML, set up by code.</string>
+    <string name="menu_sample2_txt">Open remote PDF sample</string>
+    <string name="menu_sample3_txt">PDF on your SD sample</string>
+    <string name="menu_sample4_txt">PDF as asset (code) sample</string>
+    <string name="menu_sample5_txt">PDF as asset (XML) sample</string>
+    <string name="menu_sample6_txt">Pre-lollipop PDF download and launch</string>
+    <string name="menu_sample8_txt">Zoomable PDF (PhotoView)</string>
+    <string name="menu_sample9_txt">Example with initial scale</string>
+    <string name="dummy_msg">This sample PDF here &gt;&gt;\nis declared by code</string>
+    <string name="zoomable_asset_on_xml">Zoomable PDF on XML Example</string>
+    <string name="page_was_clicked">Page was clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="runtime_permissions_txt">Please enable ALL permissions from app settings.</string>
+
+    <string name="title_txt">Title</string>
+    <string name="txt_about"><![CDATA[<p>No matter your age, to keep your breasts healthy it helps to learn whats normal and whats not. It will put you on the lookout for changes that could be signs of trouble.</p>
+<p>Just like any part of your body, find out what to expect at different stages of life.</p>
+<p>"Knowing what your breasts look and feel like can help you recognize when something is suddently different," says Pamela Peeke, MD, author of Body for Life for Women. " The same way you pay attention to your skin and watch for new moles, you should pay attention to your breasts."</p>
+<p>Your doctor may give you a breast exam at your annual visit, and may teach you how to do a self-exam at home. Research doesnt show that breast exams save lives or detect cancers earlier, but many doctors still recommend them, And its always a good idea to be aware of your body and let your doctor know if you notice any changes.</p>
+<p><strong>Whats Normal, Whats Not</strong><br /><br />You may sometimes worry that your breast dont look "right". But most of the things women are concerned about are not actually that unusual, Peeke says.</p>
+]]></string>
+
+    <string name="title_home">Home</string>
+    <string name="title_about">About</string>
+    <string name="title_breastcancer">Breast Cancer</string>
+    <string name="title_benign">Benign Breast Issues</string>
+    <string name="title_pink">Pink Connexion\nBreast Health News Letter</string>
+
+    <string name="title_myths">Myths &amp; Facts</string>
+
+
+    <string name="title_video">Awareness For Life</string>
+    <string name="title_video1">Breast Cancer Awareness Videos</string>
+
+
+    <string name="information">Information</string>
+    <string name="message">Are you sure want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="nodata_available">No data available for this</string>
+        <string name="novideo">No video available for this language...</string>
+    <string name="language">Language</string>
+    <string name="ok">OK</string>
+    <string name="nointernet">No internet connectivity.. Try later..</string>
+
+
+
+   <!-- <string-array name="languages">
+        <item>অসমিয়া</item>//Assamese
+        <item>বাঙালি</item>//Bengali*
+        <item>English</item>//English*
+        <item>ગુજરાતી</item>//Gujrathi
+        <item>हिंदी</item>//Hindi*
+        <item>ಕನ್ನಡ</item>//Kannada
+        <item>മലയാളം</item>//Malayalam
+        <item>मराठी</item>//Marathi*
+        <item>ଓଡ଼ିଆ</item>//Oriya
+        <item>ਪੰਜਾਬੀ ਦੇ</item>//Punjabi
+        <item>தமிழ்</item>//Tamil
+        <item>తెలుగు</item>//Telgu*
+    </string-array>
+-->
+
+<!--
+    ENGLISH
+    TELUGU
+    HINDI
+    TAMIL
+    MALAYALAM
+    KANNADA
+    PUNJABI
+    GUJARATHI
+    BENGALI
+    MARATHI
+    ORIYA
+    ASSAMESE-->
+    <string-array name="languages">
+        <item>Select</item>//0*
+        <item>English</item>//English*
+        <item>తెలుగు</item>//Telgu*
+        <item>हिंदी</item>//Hindi*
+        <item>தமிழ்</item>//Tamil
+        <item>മലയാളം</item>//Malayalam
+        <item>ಕನ್ನಡ</item>//Kannada
+        <item>ਪੰਜਾਬੀ ਦੇ</item>//Punjabi
+        <item>ગુજરાતી</item>//Gujrathi
+        <item>বাঙালি</item>//Bengali*
+        <item>मराठी</item>//Marathi*
+        <item>ଓଡ଼ିଆ</item>//Oriya
+        <item>অসমিয়া</item>//Assamese
+    </string-array>
+
+    <string-array name="languages1">
+        <item>English</item>//English*
+        <item>తెలుగు</item>//Telgu*
+        <item>हिंदी</item>//Hindi*
+        <item>தமிழ்</item>//Tamil
+        <item>മലയാളം</item>//Malayalam
+        <item>ಕನ್ನಡ</item>//Kannada
+        <item>ਪੰਜਾਬੀ ਦੇ</item>//Punjabi
+        <item>ગુજરાતી</item>//Gujrathi
+        <item>বাঙালি</item>//Bengali*
+        <item>मराठी</item>//Marathi*
+        <item>ଓଡ଼ିଆ</item>//Oriya
+        <item>অসমিয়া</item>//Assamese
+    </string-array>
+
+    <string name="read_more">Read More</string>
+
+    <string name="title_myths2">கட்டுக்கதைகளும்\nஉண்மைகளும்</string>
+
+    <string name="weblink"><a href="http://www.ubf.org.in">www.ubf.org.in</a></string>
+    <string name="instruct">* Swipe to move next page\n\n* Pinch to zoom content</string>
+
+    <string name="swipe">Swipe to move next page</string>
+
+    <string name="zoom">Pinch to zoom content</string>
+
+    //----------------------------------------------------------
+
+    <string name="txt_mnth1">Nov - Jan</string>//1
+    <string name="txt_mnth2">Feb - April</string>//2
+    <string name="txt_mnth3">May - July</string>//3
+    <string name="txt_mnth4">Aug - Oct</string>//4
+
+    <string name="txt_volume1">Volume 1 Issue 3</string>
+    <string name="txt_volume2">Volume 2 Issue 3</string>
+    <string name="txt_volume4">Volume 5 Issue 3</string>
+    <string name="txt_volume5">Volume 6 Issue 3</string>
+    <string name="txt_volume6">Volume 7 Issue 3</string>
+    <string name="txt_volume7">Volume 4 Issue 3</string>
+    <string name="txt_volume8">Volume 3 Issue 2</string>
+
+    <string name="year1">Year 2014</string>
+    <string name="year2">Year 2015</string>
+    <string name="year3">Year 2016</string>
+    <string name="year4">Year 2017</string>
+
+
+    <string name="myth_or_fact">Myth or Fact?</string>
+    <string name="btn_myth">Myth</string>
+    <string name="btn_fact">Fact</string>
+    <string name="ans_correct">Your\'e Right</string>
+    <string name="ans_not_quite">Not Quite!</string>
+    <string name="btn_done">Done</string>
+    <string name="info">Information</string>
+    <string name="no_internet">No Internet Connection Available\nGet connected with internet to stay updated with latest Myth / Fact</string>
+    <string name="str_ok">OK</string>
+    <string name="please_wait">Please wait</string>
+    <string name="getting_question">Getting Questions From Server</string>
+    <string name="str_verify_ans">Verifying Your Answer</string>
+    <string name="that_s_it_for_today_n_why_not_explore">That’s it for today.\n Why not Explore?</string>
+    <string name="explore">Explore</string>
+    <string name="your_score">Your Score</string>
+
+    //----------------------------------------------------------
+
+
+</resources>

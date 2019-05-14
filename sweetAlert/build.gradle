@@ -1,0 +1,24 @@
+apply plugin: 'com.android.library'
+
+android {
+
+    compileSdkVersion 14
+    buildToolsVersion '25.0.0'
+
+
+
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 17
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            //shrinkResources false// Remove Unused Resource
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}

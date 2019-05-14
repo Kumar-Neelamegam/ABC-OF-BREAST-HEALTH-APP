@@ -1,0 +1,106 @@
+﻿<resources>
+    <string name="app_name">स्तन स्वास्थ्य</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="footer_txt">Powered by Devatech Info Systems Pvt. Ltd.</string>
+
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf</string>
+    <string name="download">Tap to start download</string>
+    <string name="asset_on_sd">Asset on SD card example</string>
+    <string name="asset_on_xml">Asset on XML example</string>
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="std_example">PdfViewPager examples</string>
+    <string name="ready">Ready to download</string>
+    <string name="legacy_pdf">Legacy PDF Example (Pre-Lollipop)</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded_wait">Download Complete. Now opening PDF, Wait a moment please...</string>
+    <string name="flaticon_attr">BTW, all icons are from www.flaticon.com</string>
+    <string name="txt1">This is a PDF document, declared on XML, set up by code.</string>
+    <string name="menu_sample2_txt">Open remote PDF sample</string>
+    <string name="menu_sample3_txt">PDF on your SD sample</string>
+    <string name="menu_sample4_txt">PDF as asset (code) sample</string>
+    <string name="menu_sample5_txt">PDF as asset (XML) sample</string>
+    <string name="menu_sample6_txt">Pre-lollipop PDF download and launch</string>
+    <string name="menu_sample8_txt">Zoomable PDF (PhotoView)</string>
+    <string name="menu_sample9_txt">Example with initial scale</string>
+    <string name="dummy_msg">This sample PDF here &gt;&gt;\nis declared by code</string>
+    <string name="zoomable_asset_on_xml">Zoomable PDF on XML Example</string>
+    <string name="page_was_clicked">Page was clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="title_txt">Title</string>
+
+<string name="txt_about"><![CDATA[<P> कोई फर्क नहीं पड़ता तुम्हारी उम्र, अपने स्तनों को स्वस्थ रखने के लिए यह whats के सामान्य और नहीं है whats जानने के लिए मदद करता है। यह परिवर्तन है कि मुसीबत के संकेत हो सकता है की तलाश में डाल दिया जाएगा। </ P>
+<P> बस अपने शरीर के किसी भी हिस्से की तरह, क्या जीवन के विभिन्न चरणों में उम्मीद करने के लिए पता लगाना। </ P>
+<P> "यह जानते हुए कि अपने स्तनों को देखो और महसूस करने में मदद कर सकते हैं जैसे आप पहचान जब कुछ Suddently अलग है," पामेला Peeke, एमडी, महिलाओं के लिए जीवन के लिए शरीर के लेखक कहते हैं। "उसी तरह से आप अपनी त्वचा पर ध्यान देना और नए मोल्स के लिए देखते हैं, तो आप अपने स्तनों को ध्यान देना चाहिए।" </ P>
+<P> अपने चिकित्सक से अपनी वार्षिक यात्रा में आप एक स्तन परीक्षा दे सकता है, और कैसे घर पर एक स्वयं परीक्षा करने के लिए आप सिखा सकते हैं। अनुसंधान does not को पता चलता है कि स्तन परीक्षा जान बचाने या कैंसर के पहले पता लगा है, लेकिन कई डॉक्टरों को अब भी उन्हें सलाह देते हैं, और इसके हमेशा एक अच्छा विचार के लिए अपने शरीर के बारे में पता हो सकता है और अगर आप किसी भी परिवर्तन की सूचना अपने चिकित्सक से जानते हैं। </ P>
+<P> <strong> Whats सामान्य है, क्या नहीं </ strong> <br /> <br /> आप कभी कभी चिंता हो सकती है कि अपने स्तन न देखो "ठीक है"। लेकिन चीजें महिलाओं के बारे में वास्तव में है कि असामान्य नहीं हैं चिंतित हैं के अधिकांश, Peeke कहते हैं। </ P>
+]]></string>
+
+
+    <string name="title_about">  क्यों अन्वेषण नहीं?</string>
+    <string name="title_breastcancer">स्तन कैंसर</string>
+    <string name="title_benign">सुसाध्य स्तन समस्याएं</string>
+    <string name="title_pink">गुलाबी रंग का संबंध</string>
+    <string name="title_home">होम</string>
+    <string name="title_myths">झूठ व सही</string>
+    <string name="title_video">जीवन जागरूकता</string>
+
+
+
+
+    <string name="information">जानकारी</string>
+    <string name="message">क्या आप वास्तव मे बाहर जाना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="nodata_available">नवीनतम मिथक / तथ्य के साथ अद्यतन रहने के लिए इंटरनेट के साथ जुड़ा हो जाओ</string>
+    <string name="language">भाषा</string>
+    <string name="ok">ठीक</string>
+    <string name="read_more">कृपया प्रतीक्षा करें</string>
+
+    <string name="novideo">कोई वीडियो इस भाषा के लिए उपलब्ध</string>
+    <string name="title_video1">स्तन कैंसर जागरूकता  वीडियो</string>
+    <string name="nointernet">कोई इंटरनेट कनेक्टिविटी .. बाद में प्रयास करें ..</string>
+    <string name="instruct">* कड़ी चोट अगले पृष्ठ * चुटकी सामग्री ज़ूम करने के लिए स्थानांतरित करने के लिए</string>
+    <string name="runtime_permissions_txt">अनुप्रयोग सेटिंग्स से सभी अनुमतियों को सक्षम करें।</string>
+    <string name="swipe">अगले पृष्ठ स्थानांतरित करने के लिए स्वाइप करें</string>
+
+    <string name="zoom">सामग्री ज़ूम करने के लिए चुटकी</string>
+    <string name="txt_mnth1">नवंबर - जनवरी</string>
+    <string name="txt_mnth2">फरवरी - अप्रैल</string>
+    <string name="txt_mnth3">मई - जुलाई</string>
+    <string name="txt_mnth4">अगस्त - अक्टूबर</string>
+    <string name="txt_volume1">खंड 1 अंक 3</string>
+    <string name="txt_volume2">खंड 2 अंक 3</string>
+    <string name="txt_volume4">खंड 3 अंक 3</string>
+    <string name="txt_volume5">खंड 6 अंक 3</string>
+    <string name="txt_volume6">खंड 7 अंक 3</string>
+    <string name="txt_volume7">खंड 4 अंक 3</string>
+    <string name="txt_volume8">खंड 3 अंक 2</string>
+    <string name="year1">वर्ष 2014</string>
+    <string name="year2">वर्ष 2015</string>
+    <string name="year3">वर्ष 2016</string>
+    <string name="year4">वर्ष 2017</string>
+    <string name="ans_correct">आप सही हैं  </string>
+    <string name="ans_not_quite">बिल्कुल गलत!  </string>
+    <string name="btn_done">सम्पन्न</string>
+    <string name="btn_fact">सही</string>
+    <string name="btn_myth">गलत </string>
+    <string name="explore">खोजें</string>
+    <string name="getting_question">सर्वर से प्रश्न प्राप्त किया जा रहा है  </string>
+    <string name="info">जानकारी </string>
+    <string name="myth_or_fact">गलत या सही? </string>
+    <string name="no_internet">इंटरनेट कनेक्शन उपलब्ध नहीं है-नवीनतम गलत/सही अपडेट को बनाये रखने के लिए इंटरनेट से कनेक्ट करें। </string>
+    <string name="please_wait">कृपया इंतजार करें--  </string>
+    <string name="str_ok">ओके</string>
+    <string name="str_verify_ans">आपके जवाब का सत्यापन किया जा रहा है  </string>
+    <string name="that_s_it_for_today_n_why_not_explore">आज के लिए बस इतना ही। खोज क्यों नहीं कर रहे हैं? </string>
+    <string name="your_score">आपका स्कोर  </string>
+
+
+</resources>

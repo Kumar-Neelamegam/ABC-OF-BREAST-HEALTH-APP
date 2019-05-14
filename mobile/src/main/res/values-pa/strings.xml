@@ -1,0 +1,104 @@
+﻿<resources>
+    <string name="app_name">ਛਾਤੀ ਸਿਹਤ</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="footer_txt">Powered by Devatech Info Systems Pvt. Ltd.</string>
+
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf</string>
+    <string name="download">Tap to start download</string>
+    <string name="asset_on_sd">Asset on SD card example</string>
+    <string name="asset_on_xml">Asset on XML example</string>
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="std_example">PdfViewPager examples</string>
+    <string name="ready">Ready to download</string>
+    <string name="legacy_pdf">Legacy PDF Example (Pre-Lollipop)</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded_wait">Download Complete. Now opening PDF, Wait a moment please...</string>
+    <string name="flaticon_attr">BTW, all icons are from www.flaticon.com</string>
+    <string name="txt1">This is a PDF document, declared on XML, set up by code.</string>
+    <string name="menu_sample2_txt">Open remote PDF sample</string>
+    <string name="menu_sample3_txt">PDF on your SD sample</string>
+    <string name="menu_sample4_txt">PDF as asset (code) sample</string>
+    <string name="menu_sample5_txt">PDF as asset (XML) sample</string>
+    <string name="menu_sample6_txt">Pre-lollipop PDF download and launch</string>
+    <string name="menu_sample8_txt">Zoomable PDF (PhotoView)</string>
+    <string name="menu_sample9_txt">Example with initial scale</string>
+    <string name="dummy_msg">This sample PDF here &gt;&gt;\nis declared by code</string>
+    <string name="zoomable_asset_on_xml">Zoomable PDF on XML Example</string>
+    <string name="page_was_clicked">Page was clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="style"></string>
+
+
+
+    <string name="title_txt">Title</string>
+    <string name="txt_about"><![CDATA[<p>ਕੋਈ ਗੱਲ ਤੁਹਾਡੀ ਉਮਰ, ਆਪਣੇ ਛਾਤੀ ਨੂੰ ਸਿਹਤਮੰਦ ਰੱਖਣ ਲਈ ਇਸ ਨੂੰ whats ਆਮ ਅਤੇ whats ਨਾ ਸਿੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ. ਇਹ ਤਬਦੀਲੀ ਹੈ, ਜੋ ਕਿ ਮੁਸੀਬਤ ਦੇ ਸੰਕੇਤ ਦੇ ਹੋ ਸਕਦਾ ਹੈ ਇਸ ਲਈ ਲੁੱਕਆਊਟ ਤੇ ਤੁਹਾਨੂੰ ਪਾ ਜਾਵੇਗਾ. </ P>
+<P> ਬਸ ਆਪਣੇ ਸਰੀਰ ਦੇ ਕਿਸੇ ਵੀ ਹਿੱਸੇ ਨੂੰ ਵਰਗੇ, ਕੀ ਜੀਵਨ ਦੇ ਵੱਖ-ਵੱਖ ਪੜਾਅ ਤੇ ਉਮੀਦ ਹੈ ਨੂੰ ਬਾਹਰ ਲੱਭਣ ਲਈ. </ P>
+<P> "ਜਾਣ ਕੇ ਕਿ ਤੁਹਾਡੇ ਛਾਤੀ ਦੇਖਣ ਅਤੇ ਮਹਿਸੂਸ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ ਵਰਗੇ ਤੁਹਾਨੂੰ ਮਾਨਤਾ ਹੈ ਜਦ ਕਿਸੇ ਚੀਜ਼ ਨੂੰ suddently ਵੱਖ ਵੱਖ ਹੁੰਦਾ ਹੈ," Pamela Peeke, ਐਮ.ਡੀ., ਮਹਿਲਾ ਲਈ ਜੀਵਨ ਲਈ ਸਰੀਰ ਦੇ ਲੇਖਕ ਕਹਿੰਦਾ ਹੈ. "ਉਸੇ ਤਰੀਕੇ ਨਾਲ ਤੁਹਾਨੂੰ ਆਪਣੀ ਚਮੜੀ ਨੂੰ ਧਿਆਨ ਦੇਣਾ ਹੈ ਅਤੇ ਨਵ ਮਹੁਕੇਸਮਿਝਆ ਲਈ ਜਾਗ, ਤੁਹਾਨੂੰ ਆਪਣੇ ਛਾਤੀ ਨੂੰ ਧਿਆਨ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ." </ P>
+<P> ਤੁਹਾਡਾ ਡਾਕਟਰ ਆਪਣੇ ਸਾਲਾਨਾ ਦੌਰੇ ਤੇ ਤੁਹਾਨੂੰ ਇੱਕ ਛਾਤੀ ਇਮਤਿਹਾਨ ਦੇਣ ਹੋ ਸਕਦਾ ਹੈ, ਅਤੇ ਕਿਸ ਨੂੰ ਘਰ ਤੇ ਇੱਕ ਸਵੈ-ਪ੍ਰੀਖਿਆ ਨੂੰ ਕੀ ਕਰਨ ਦੀ ਤੁਹਾਨੂੰ ਸੂਝ ਪੈ ਸਕਦੀ ਹੈ. ਰਿਸਰਚ ਦਿੰਦਾ ਲੱਗਦਾ ਹੈ ਕਿ ਛਾਤੀ ਦਾ ਇਮਤਿਹਾਨ ਜੀਵਨ ਨੂੰ ਬਚਾਉਣ ਜ ਕਸਰ ਪਿਛਲੇ ਖੋਜਣ, ਪਰ ਬਹੁਤ ਸਾਰੇ ਡਾਕਟਰ ਅਜੇ ਵੀ ਉਹ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਹੈ, ਅਤੇ ਇਸ ਨੂੰ ਹਮੇਸ਼ਾ ਇੱਕ ਚੰਗੀ ਗੱਲ ਆਪਣੇ ਸਰੀਰ ਦਾ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਜੇ ਤੁਹਾਨੂੰ ਕਿਸੇ ਵੀ ਤਬਦੀਲੀ ਨੂੰ ਧਿਆਨ ਆਪਣੇ ਡਾਕਟਰ ਨੂੰ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ. </ P>
+<P> <strong> Whats ਸਧਾਰਨ, Whats ਨਾ </ strong> <br /> <br /> ਤੁਹਾਨੂੰ ਕਈ ਵਾਰ ਚਿੰਤਾ ਹੋ ਸਕਦੀ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਛਾਤੀ dont ਵੇਖਣ "ਸੱਜੇ". ਪਰ ਕੁਝ ਮਹਿਲਾ ਦੇ ਸਭ ਸਬੰਧਤ ਬਾਰੇ ਅਸਲ ਵਿੱਚ ਹੈ, ਜੋ ਕਿ ਅਸਾਧਾਰਨ ਨਹੀ ਹਨ, ਹਨ, Peeke ਕਹਿੰਦਾ ਹੈ.</p>
+]]></string>
+
+    <string name="title_about">ਬਾਰੇ</string>
+    <string name="title_breastcancer">ਛਾਤੀ ਦਾ ਕੈਂਸਰ</string>
+    <string name="title_benign">ਛਾਤੀ ਦੇ ਸ਼ੁਰੂਆਤੀ ਮੁੱਦੇ</string>
+    <string name="title_pink">ਪਿੰਕ ਕੁਨੈਕਸ਼ਨ</string>
+    <string name="title_inspir">ਉਤਸ਼ਾਹਜਨਕ</string>
+
+
+
+    <string name="information">ਜਾਣਕਾਰੀ</string>
+    <string name="message">ਜੇਕਰ ਤੁਹਾਨੂੰ ਇਹ ਯਕੀਨੀ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="yes">ਜੀ</string>
+    <string name="no">ਕੋਈ</string>
+    <string name="nodata_available">ਤਾਜ਼ਾ ਮਿੱਥ / ਤੱਥ ਨਾਲ ਅੱਪਡੇਟ ਰਹਿਣ ਲਈ ਇੰਟਰਨੈੱਟ ਨਾਲ ਜੁੜਿਆ ਕਰੋ\"</string>
+    <string name="language">ਭਾਸ਼ਾ</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="read_more">ਹੋਰ ਪੜ੍ਹੋ</string>
+    <string name="title_video">ਜੀਵਨ ਲਈ ਜਾਗਰੂਕਤਾ</string>
+    <string name="novideo">ਕੋਈ ਵੀਡੀਓ ਇਸ ਭਾਸ਼ਾ ਲਈ ਉਪਲੱਬਧ ਹੈ</string>
+    <string name="title_video1">ਛਾਤੀ ਦੇ ਕਸਰ ਜਾਗਰੂਕਤਾ - ਵੀਡੀਓ</string>
+    <string name="nointernet">ਕੋਈ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ .. ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ ..</string>
+    <string name="instruct">* ਸਵਾਈਪ ਅਗਲੇ ਸਫ਼ੇ * ਚੂੰਡੀ ਸਮੱਗਰੀ ਨੂੰ ਜ਼ੂਮ ਤੇ ਜਾਣ ਲਈ</string>
+    <string name="runtime_permissions_txt">ਐਪ ਸੈਟਿੰਗ ਦੇ ਸਾਰੇ ਅਧਿਕਾਰ ਨੂੰ ਯੋਗ ਕਰੋ.</string>
+    <string name="swipe">ਅਗਲੇ ਸਫ਼ੇ ਤੇ ਜਾਣ ਲਈ ਸਵਾਈਪ</string>
+    <string name="title_home">ਮੁੱਖ ਪੰਨਾ</string>
+    <string name="title_myths">ਮਿਥਿਹਾਸ ਅਤੇ ਤੱਥ</string>
+    <string name="zoom">ਸਮੱਗਰੀ ਨੂੰ ਜ਼ੂਮ ਕਰਨ ਵੱਢੋ</string>
+    <string name="txt_mnth1">ਨਵੰਬਰ - ਜਨਵਰੀ</string>
+    <string name="txt_mnth2">ਫਰਵਰੀ - ਅਪ੍ਰੈਲ</string>
+    <string name="txt_mnth3">ਹੋ ਸਕਦਾ ਹੈ - ਜੁਲਾਈ</string>
+    <string name="txt_mnth4">ਅਗਸਤ - ਅਕਤੂਬਰ</string>
+    <string name="txt_volume1">ਵਾਲੀਅਮ 1 ਮੁੱਦੇ ਨੂੰ 3</string>
+    <string name="txt_volume2">ਵਾਲੀਅਮ 2 ਮੁੱਦੇ ਨੂੰ 3</string>
+    <string name="txt_volume4">ਵਾਲੀਅਮ 3 ਮੁੱਦੇ ਨੂੰ 3</string>
+    <string name="txt_volume5">ਵਾਲੀਅਮ 6 ਮੁੱਦੇ ਨੂੰ 3</string>
+    <string name="txt_volume6">ਵਾਲੀਅਮ 7 ਮੁੱਦੇ ਨੂੰ 3</string>
+    <string name="txt_volume7">ਵਾਲੀਅਮ 4 ਮੁੱਦੇ ਨੂੰ 3</string>
+    <string name="txt_volume8">ਵਾਲੀਅਮ 3 ਮੁੱਦੇ ਨੂੰ 3</string>
+    <string name="year1">ਸਾਲ 2014</string>
+    <string name="year2">ਸਾਲ 2015</string>
+    <string name="year3">ਸਾਲ 2016</string>
+    <string name="year4">ਸਾਲ 2017</string>
+    <string name="ans_correct">ਤੁਸੀਂ ਠੀਕ ਹੋ</string>
+    <string name="ans_not_quite">ਬਿਲਕੁੱਲ ਨਹੀਂ!</string>
+    <string name="btn_done">ਸੰਪੂਰਣ</string>
+    <string name="btn_fact">ਸਚਾਈ</string>
+    <string name="btn_myth">ਮਿਥਿਹਾਸ</string>
+    <string name="explore">ਖੋਜ਼ ਕਰੋ</string>
+    <string name="getting_question">ਸਰਵਰ ਤੋਂ ਪ੍ਰਸ਼ਨ ਪ੍ਰਾਪਤ ਕਰਨਾ</string>
+    <string name="info">ਜਾਣਕਾਰੀ</string>
+    <string name="myth_or_fact">ਮਿਥਿਹਾਸ ਜਾਂ ਸਚਾਈ?</string>
+    <string name="no_internet">ਕੋਈ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ – ਹਾਲ ਹੀ ਦੇ ਮਿਥਿਹਾਸ / ਸਚਾਈ ਨੂੰ ਜਾਣਨ ਲਈ ਇੰਟਰਨੈਟ ਨਾਲ ਜੁੜੇ ਰਹੋ</string>
+    <string name="please_wait">ਕਿਰਪਾ ਕਰਕੇ ਇੰਤਜਾਰ ਕਰੋ...</string>
+    <string name="str_ok">ਠੀਕ ਐ</string>
+    <string name="str_verify_ans">ਤੁਹਾਡੇ ਉੱਤਰ ਦਾ ਮੁਲਾਂਕਣ ਕਰਨਾ</string>
+    <string name="that_s_it_for_today_n_why_not_explore">ਅੱਜ ਲਈ ਬੱਸ ਇੰਨਾ ਹੀ। ਖੋਜ਼ ਕਿਉਂ ਨਹੀਂ ਕਰਦੇ?</string>
+    <string name="your_score">ਤੁਹਾਡਾ ਸਕੋਰ</string>
+
+
+</resources>

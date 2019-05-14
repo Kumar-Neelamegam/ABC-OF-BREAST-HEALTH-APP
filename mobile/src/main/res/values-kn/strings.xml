@@ -1,0 +1,100 @@
+﻿<resources>
+    <string name="app_name">ಸ್ತನ ಆರೋಗ್ಯ</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="footer_txt">Powered by Devatech Info Systems Pvt. Ltd.</string>
+
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf</string>
+    <string name="download">Tap to start download</string>
+    <string name="asset_on_sd">Asset on SD card example</string>
+    <string name="asset_on_xml">Asset on XML example</string>
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="std_example">PdfViewPager examples</string>
+    <string name="ready">Ready to download</string>
+    <string name="legacy_pdf">Legacy PDF Example (Pre-Lollipop)</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded_wait">Download Complete. Now opening PDF, Wait a moment please...</string>
+    <string name="flaticon_attr">BTW, all icons are from www.flaticon.com</string>
+    <string name="txt1">This is a PDF document, declared on XML, set up by code.</string>
+    <string name="menu_sample2_txt">Open remote PDF sample</string>
+    <string name="menu_sample3_txt">PDF on your SD sample</string>
+    <string name="menu_sample4_txt">PDF as asset (code) sample</string>
+    <string name="menu_sample5_txt">PDF as asset (XML) sample</string>
+    <string name="menu_sample6_txt">Pre-lollipop PDF download and launch</string>
+    <string name="menu_sample8_txt">Zoomable PDF (PhotoView)</string>
+    <string name="menu_sample9_txt">Example with initial scale</string>
+    <string name="dummy_msg">This sample PDF here &gt;&gt;\nis declared by code</string>
+    <string name="zoomable_asset_on_xml">Zoomable PDF on XML Example</string>
+    <string name="page_was_clicked">Page was clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="title_txt">Title</string>
+    <string name="txt_about"><![CDATA[<p>ಯಾವುದೇ ನಿಮ್ಮ ವಯಸ್ಸು, ಇದು Whats ಸಾಮಾನ್ಯ ಮತ್ತು Whats ತಿಳಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ ಆರೋಗ್ಯಕರ ನಿಮ್ಮ ಸ್ತನಗಳನ್ನು ಇರಿಸಿಕೊಳ್ಳಲು. ಇದು ತೊಂದರೆ ಚಿಹ್ನೆಗಳು ಎಂದು ಬದಲಾವಣೆಗಳನ್ನು ಆನ್ವೇಷಣೆಯಲ್ಲಿದ್ದರು ನೀವು ಹಾಕುತ್ತಾನೆ. </ P>
+<P> ನಿಮ್ಮ ದೇಹದ ಯಾವುದೇ ಭಾಗದ ರೀತಿಯಲ್ಲಿ, ಜೀವನದ ವಿವಿಧ ಹಂತಗಳಲ್ಲಿ ನಿರೀಕ್ಷಿಸಬಹುದು ಏನೆಂದು. </ P>
+<ಪುಟ> "ನಿಮ್ಮ ಸ್ತನಗಳನ್ನು ನೋಡಲು ಮತ್ತು ಏನೋ suddently ವಿಭಿನ್ನವಾಗಿದೆ ನೀವು ಗುರುತಿಸಲು ಸಹಾಯ ಮಾಡಬಹುದು ಅನಿಸುತ್ತದೆ ತಿಳಿದುಕೊಳ್ಳುವುದರಿಂದ," ಪಮೇಲಾ Peeke, ಎಮ್ಡಿ, ಮಹಿಳೆಯರ ಲೈಫ್ ದೇಹ ಲೇಖಕ ಹೇಳುತ್ತಾರೆ. "ಅದೇ ರೀತಿಯಲ್ಲಿ ನಿಮ್ಮ ಚರ್ಮದ ಗಮನ ಪಾವತಿ ಮತ್ತು ಹೊಸ ಮೋಲ್ ವೀಕ್ಷಿಸಲು, ನಿಮ್ಮ ಸ್ತನಗಳನ್ನು ಗಮನ ಪಾವತಿಸಬೇಕೆಂಬ." </ ಪುಟ>
+<P> ನಿಮ್ಮ ವೈದ್ಯರು ನಿಮ್ಮ ವಾರ್ಷಿಕ ಭೇಟಿಯಲ್ಲಿ ನೀವು ಸ್ತನ ಪರೀಕ್ಷೆ ನೀಡಬಹುದು, ಮತ್ತು ಹೇಗೆ ಮನೆಯಲ್ಲಿ ಸ್ವಯಂ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಮಾಡಲು ನೀವು ಕಲಿಸಲು ಮಾಡಬಹುದು. ರಿಸರ್ಚ್ ಮಾಡುವುದಿಲ್ಲ ಸ್ತನ ಪರೀಕ್ಷೆಗೆ ಜೀವಗಳನ್ನು ಉಳಿಸಲು ಅಥವಾ ಹಿಂದಿನ ಕ್ಯಾನ್ಸರ್ ಪತ್ತೆ ಎಂದು ತೋರಿಸಲು, ಆದರೆ ಅನೇಕ ವೈದ್ಯರು ಇನ್ನೂ ಅವರಿಗೆ ಶಿಫಾರಸು, ಮತ್ತು ಅದರ ಯಾವಾಗಲೂ ಒಳ್ಳೆಯದು ನಿಮ್ಮ ದೇಹದ ತಿಳಿದಿರಲಿ ಮತ್ತು ನೀವು ಯಾವುದೇ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸುತ್ತಾರೆ ನಿಮ್ಮ ವೈದ್ಯರನ್ನು ತಿಳಿಸಿ. </ P>
+<P> <strong> ನಿರ್ಧರಿಸಲು ಸಾಧಾರಣ, ನಿರ್ಧರಿಸಲು ಮಾಡಿರುವುದಿಲ್ಲ <br ನೀವು ಕೆಲವೊಮ್ಮೆ ನಿಮ್ಮ ಸ್ತನ "ಬಲ" ನೋಡಲು ಇಲ್ಲ ಎಂದು ಚಿಂತೆ /> <br /> </ strong> ಅನ್ನು. ಆದರೆ ವಿಷಯಗಳನ್ನು ಹೆಚ್ಚಿನ ಮಹಿಳೆಯರು ವಾಸ್ತವವಾಗಿ ಅಸಾಮಾನ್ಯವಾದುದು ಬಗೆಗೆ, Peeke ಹೇಳುತ್ತಾರೆ.</p>
+]]></string>
+
+    <string name="title_about">  ಏಕೆ ಅನ್ವೇಷಿಸಲು ಇಲ್ಲ?</string>
+    <string name="title_breastcancer">ಸ್ತನ ಕ್ಯಾನ್ಸರ್</string>
+    <string name="title_benign">ಹಾನಿಕಾರಕವಲ್ಲದ ಸ್ತನ ಸಮಸ್ಯೆಗಳು</string>
+    <string name="title_pink">ಪಿಂಕ್ ಕನೆಕ್ಷನ್</string>
+
+
+    <string name="information">ಮಾಹಿತಿ</string>
+    <string name="message">ನೀವು ಖಚಿತವಾಗಿ ನಿರ್ಗಮಿಸಲು ಬಯಸುವಿರಾ?</string>
+    <string name="yes">ಹೌದು</string>
+    <string name="no">ಯಾವುದೇ</string>
+    <string name="nodata_available">ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಇತ್ತೀಚಿನ ಮಿಥ್ / ವಾಸ್ತವವಾಗಿ ಅಪ್ಡೇಟ್ಗೊಳಿಸಲಾಗಿದೆ ಉಳಿಯಲು</string>
+    <string name="language">ಭಾಷಾ</string>
+    <string name="ok">ಸರಿ</string>
+    <string name="read_more">ಮತ್ತಷ್ಟು ಓದು</string>
+    <string name="title_video">ಜೀವನಕ್ಕಾಗಿ ಜಾಗೃತಿ</string>
+    <string name="novideo">ಯಾವುದೇ ವಿಡಿಯೋ ಈ ಭಾಷೆಗೆ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="title_video1">ಸ್ತನ ಕ್ಯಾನ್ಸರ್ ಜಾಗೃತಿ  ವೀಡಿಯೊಗಳು</string>
+    <string name="nointernet">ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ .. ನಂತರ ಪ್ರಯತ್ನಿಸಿ ..</string>
+    <string name="instruct">* ಸ್ವೈಪ್ ವಿಷಯ ಜೂಮ್ ಮುಂದಿನ ಪುಟ * ಸರಿಸಲು ಪಿಂಚ್</string>
+    <string name="runtime_permissions_txt">ದಯವಿಟ್ಟು ಅಪ್ಲಿಕೇಶನ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಎಲ್ಲಾ ಅನುಮತಿಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
+    <string name="swipe">ಮುಂದಿನ ಪುಟ ಸರಿಸಲು ಸ್ವೈಪ್</string>
+    <string name="title_home">ಮುಖಪುಟ</string>
+    <string name="title_myths">ನಂಬಿಕೆ ಮತ್ತು ವಾಸ್ತವಾಂಶ</string>
+    <string name="zoom">ವಿಷಯದ ಗಾತ್ರ ಹಿಗ್ಗಿಸಲು ಪಿಂಚ್ ಮಾಡಿ</string>
+    <string name="txt_mnth1">ನವೆಂಬರ್ - ಜನವರಿ</string>
+    <string name="txt_mnth2">ಫೆಬ್ರವರಿ - ಏಪ್ರಿಲ್</string>
+    <string name="txt_mnth3">ಮೇ - ಜುಲೈ</string>
+    <string name="txt_mnth4">ಆಗಸ್ಟ್ - ಅಕ್ಟೋಬರ್</string>
+    <string name="txt_volume1">ಸಂಪುಟ 1 ಸಂಚಿಕೆ 3</string>
+    <string name="txt_volume2">ಸಂಪುಟ 2 ಸಂಚಿಕೆ 3</string>
+    <string name="txt_volume4">ಸಂಪುಟ 3 ಸಂಚಿಕೆ 3</string>
+    <string name="txt_volume5">ಸಂಪುಟ 6 ಸಂಚಿಕೆ 3</string>
+    <string name="txt_volume6">ಸಂಪುಟ 7 ಸಂಚಿಕೆ 3</string>
+    <string name="txt_volume7">ಸಂಪುಟ 4 ಸಂಚಿಕೆ 3</string>
+    <string name="txt_volume8">ಸಂಪುಟ 3 ಸಂಚಿಕೆ 2</string>
+    <string name="year1">ವರ್ಷದ 2014</string>
+    <string name="year2">ವರ್ಷದ 2015</string>
+    <string name="year3">ವರ್ಷದ 2016</string>
+    <string name="year4">ವರ್ಷದ 2017</string>
+    <string name="ans_correct">ಸರಿಯಾಗಿದೆ</string>
+    <string name="ans_not_quite">ಅಷ್ಟು ಸರಿಯಾಗಿಲ್ಲ!</string>
+    <string name="btn_done">ಮುಗಿಯಿತು</string>
+    <string name="btn_fact">ವಾಸ್ತವ </string>
+    <string name="btn_myth">ಕಲ್ಪನೆ </string>
+    <string name="explore">ಎಕ್ಸ್ಪೋರ್</string>
+    <string name="getting_question">ಸರ್ವರ್ ನಿಂದ ಪ್ರಶ್ನೆಗಳನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ</string>
+    <string name="info">ಮಾಹಿತಿ</string>
+    <string name="myth_or_fact">ಕಲ್ಪನೆ ಅಥವಾ ವಾಸ್ತವ?</string>
+    <string name="no_internet">ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಲಭ್ಯವಿಲ್ಲ- ಇತ್ತೀಚಿನ ಕಲ್ಪನೆ/ವಾಸ್ತವದ ಬಗ್ಗೆ ಅಪ್ಡೇಟ್ ಪಡೆಯಲು ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಹೊಂದಿ</string>
+    <string name="please_wait">ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ...</string>
+    <string name="str_ok">ಸರಿ</string>
+    <string name="str_verify_ans">ನಿಮ್ಮ ಉತ್ತರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="that_s_it_for_today_n_why_not_explore">ಇಂದಿಗೆ ಇಷ್ಟೇ. ಏಕೆ ಎಕ್ಸ್ಪೋರ್ ಮಾಡಬಾರದು?</string>
+    <string name="your_score">ನಿಮ್ಮ ಅಂಕ</string>
+
+
+</resources>

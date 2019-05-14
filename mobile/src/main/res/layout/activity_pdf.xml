@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:id="@+id/appbar_layout"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:id="@+id/toolbar"
+            android:layout_height="@dimen/abc_action_bar_default_height_material"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            android:background="@color/pinkclr">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:id="@+id/tool_text"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Settings"/>
+
+
+                <ImageView
+                        android:id="@+id/menu_item"
+
+                        android:layout_width="wrap_content"
+                        android:foregroundGravity="right"
+                        android:layout_gravity="right"
+                        android:padding="15dp"
+                        android:layout_height="wrap_content" />
+
+
+            </LinearLayout>
+
+
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="-"
+        android:padding="5dp"
+        android:id="@+id/textView" />
+
+ <!--   <com.joanzapata.pdfview.PDFView
+        android:id="@+id/pdfview"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+
+        android:layout_height="match_parent"/>-->
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/litepink"
+        android:padding="5dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:src="@drawable/zoom_in"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/img_zoom"
+            android:layout_weight="1"  />
+
+        <ImageView
+            android:id="@+id/img_swipe"
+            android:src="@drawable/image2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"  />
+
+
+        </LinearLayout>
+<!--
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="2dp"
+        android:text="@string/footer_txt"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/pink"
+        android:textStyle="bold" />-->
+
+</LinearLayout>

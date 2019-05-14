@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "878741079662",
+    "firebase_url": "https://.KIMS/-1bf52.firebaseio.com",
+    "project_id": "kims-1bf52",
+    "storage_bucket": "kims-1bf52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878741079662:android:406ac58d2e8e2400",
+        "android_client_info": {
+          "package_name": "devatech.kims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878741079662-7lbealdltinuuu3j9f8rthkkqtjjhqgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devatech.kims",
+            "certificate_hash": "3639476BC8F87CB35A81BA9F330DDD4BAB05FF31"
+          }
+        },
+        {
+          "client_id": "878741079662-86o1ea6p545k2e29e8bem1em3ll2969b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8urNUZrQOkZkKtEidYnYAkF5kjxoyi0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878741079662-86o1ea6p545k2e29e8bem1em3ll2969b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

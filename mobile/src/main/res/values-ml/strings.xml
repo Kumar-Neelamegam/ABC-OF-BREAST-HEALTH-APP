@@ -1,0 +1,103 @@
+﻿<resources>
+    <string name="app_name">മുലപ്പാൽ ആരോഗ്യം</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="footer_txt">Powered by Devatech Info Systems Pvt. Ltd.</string>
+
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf</string>
+    <string name="download">Tap to start download</string>
+    <string name="asset_on_sd">Asset on SD card example</string>
+    <string name="asset_on_xml">Asset on XML example</string>
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="std_example">PdfViewPager examples</string>
+    <string name="ready">Ready to download</string>
+    <string name="legacy_pdf">Legacy PDF Example (Pre-Lollipop)</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded_wait">Download Complete. Now opening PDF, Wait a moment please...</string>
+    <string name="flaticon_attr">BTW, all icons are from www.flaticon.com</string>
+    <string name="txt1">This is a PDF document, declared on XML, set up by code.</string>
+    <string name="menu_sample2_txt">Open remote PDF sample</string>
+    <string name="menu_sample3_txt">PDF on your SD sample</string>
+    <string name="menu_sample4_txt">PDF as asset (code) sample</string>
+    <string name="menu_sample5_txt">PDF as asset (XML) sample</string>
+    <string name="menu_sample6_txt">Pre-lollipop PDF download and launch</string>
+    <string name="menu_sample8_txt">Zoomable PDF (PhotoView)</string>
+    <string name="menu_sample9_txt">Example with initial scale</string>
+    <string name="dummy_msg">This sample PDF here &gt;&gt;\nis declared by code</string>
+    <string name="zoomable_asset_on_xml">Zoomable PDF on XML Example</string>
+    <string name="page_was_clicked">Page was clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="style"></string>
+
+
+
+    <string name="title_txt">Title</string>
+    <string name="txt_about"><![CDATA[<p>നിങ്ങളുടെ പ്രായം കാര്യം നിന്റെ മുലകളെ അതു കഥയോ സാധാരണ കഥയോ അല്ല പഠിക്കാൻ സഹായിക്കുന്നു ആരോഗ്യപരമായി നിലനിർത്താൻ. ഇത് കഷ്ടത ലക്ഷണങ്ങൾ കഴിഞ്ഞില്ല മാറ്റങ്ങൾ ലുക്ക് ന് ആക്കുകയും ചെയ്യും. </ P>
+<P> ജസ്റ്റ് നിങ്ങളുടെ ശരീരത്തിൽ ഏതെങ്കിലും ഭാഗത്ത് പോലെയുള്ള ജീവന്റെ വിവിധ ഘട്ടങ്ങളിൽ പ്രതീക്ഷിക്കുന്നത് കണ്ടെത്തുക. </ P>
+<P> "നിങ്ങളുടെ സ്തനങ്ങൾ നോക്കൂ എന്താണ് തോന്നുന്നത് അറിയുന്നവനും എന്തോ suddently വ്യത്യസ്തമാണ് വരുമ്പോൾ നിങ്ങളെ തിരിച്ചറിയാൻ സഹായിക്കും," പമേല Peeke എം.ഡി വനിതാ ലൈഫ് ബോഡി രചയിതാവ് പറയുന്നു. "നിങ്ങളുടെ ചർമ്മത്തിന് ശ്രദ്ധ പുതിയ മറുകുകൾ കാണാൻ അതേ വഴി, നിങ്ങളുടെ സ്തനങ്ങൾ ശ്രദ്ധ വേണം." </ P>
+<P> നിങ്ങളുടെ ഡോക്ടറെ നിങ്ങളുടെ വാർഷിക സന്ദർശനം ഒരു ബ്രെസ്റ്റ് പരീക്ഷ നൽകിയേക്കാം, എങ്ങനെ വീട്ടിൽ ഒരു സ്വയം-പരീക്ഷ ചെയ്യണമെന്ന് നിങ്ങളെ പഠിപ്പിക്കുന്നു ചെയ്യാം. റിസർച്ച് ആ നെഞ്ചു പരീക്ഷകൾ ജീവൻ രക്ഷിക്കാൻ അല്ലെങ്കിൽ നേരത്തെ കാൻസർ കണ്ടെത്തുന്നതിനും കാണിക്കാൻ നഷ്ടപ്പെടുത്തരുത്, എന്നാൽ പല ഡോക്ടർമാരും ഇപ്പോഴും, അവരെ ശുപാർശ അതിന്റെ എപ്പോഴും ഒരു നല്ല ആശയം നിങ്ങളുടെ ശരീരം അറിഞ്ഞിരിക്കേണ്ട കൂടാതെ നിങ്ങൾക്ക് എന്തെങ്കിലും മാറ്റങ്ങൾ ശ്രദ്ധയിൽപ്പെട്ടാൽ നിങ്ങളുടെ ഡോക്ടറുടെ അറിയിക്കുന്നതിന്. </ P>
+<P> <strong> നര്മം സാധാരണം, നര്മം </ strong> <br /> നിങ്ങൾക്ക് /> <br ചിലപ്പോൾ നിങ്ങളുടെ നെഞ്ചും "ശരിയായ" നോക്കൂ ഏട്ടേ ആകുലപ്പെട്ടേക്കാം. എന്നാൽ കാര്യങ്ങൾ സ്ത്രീകൾ ആശങ്കയുള്ള ഏറ്റവും യഥാർത്ഥത്തിൽ അസാധാരണമായ അല്ല, Peeke പറയുന്നു.</p>
+]]></string>
+
+    <string name="title_about">  എന്തുകൊണ്ട് പര്യവേക്ഷണം?</string>
+    <string name="title_breastcancer">സ്തനാർബുദം</string>
+    <string name="title_benign">അപകടകരമല്ലാത്ത സ്തന പ്രശ്നങ്ങൾ</string>
+    <string name="title_pink">പിങ്ക് കണക്‌ഷൻ</string>
+    <string name="title_inspir">പ്രചോദനപരം</string>
+
+
+    <string name="information">വിവരം</string>
+    <string name="message">നിങ്ങൾക്ക് ഉറപ്പാണോ പുറത്തുകടക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+    <string name="yes">അതെ</string>
+    <string name="no">ಯಾವುದೇ</string>
+    <string name="nodata_available">ഈ ഡാറ്റാ ലഭ്യമല്ല</string>
+    <string name="language">ഭാഷ</string>
+    <string name="ok">ശരി</string>
+    <string name="read_more">കൂടുതല് വായിക്കുക</string>
+    <string name="title_video">ജീവിത അവബോധം</string>
+    <string name="novideo">ഈ ഭാഷയ്ക്കായി ലഭ്യമല്ല വീഡിയോ No</string>
+    <string name="title_video1">സ്തനാർബുദ ബോധവൽക്കരണം - വീഡിയോകൾ</string>
+    <string name="nointernet">ഇല്ല ഇന്റർനെറ്റ് കണക്റ്റിവിറ്റി .. പിന്നീട് ശ്രമിക്കുക ..</string>
+    <string name="instruct">ഉള്ളടക്കം സൂം ചെയ്യാൻ * അടുത്ത പേജ് നീക്കാൻ സ്വൈപ് * പിഞ്ചുചെയ്യുന്നത്</string>
+    <string name="runtime_permissions_txt">അപ്ലിക്കേഷൻ ക്രമീകരണങ്ങളിൽ നിന്ന് എല്ലാ അനുമതികളും പ്രവർത്തനക്ഷമമാക്കുക.</string>
+    <string name="swipe">അടുത്ത പേജ് നീക്കാൻ സ്വൈപ്</string>
+    <string name="title_home">ഹോം</string>
+    <string name="title_myths">മിഥ്യയും സത്യവും</string>
+    <string name="zoom">ഉള്ളടക്കം സൂം ചെയ്യാൻ പിഞ്ച്</string>
+    <string name="txt_mnth1">നവംബർ - ജനുവരി</string>
+    <string name="txt_mnth2">ഫെബ്രുവരി - ഏപ്രിൽ</string>
+    <string name="txt_mnth3">മെയ് - ജൂലൈ</string>
+    <string name="txt_mnth4">ഓഗസ്റ്റ് - ഒക്ടോബർ</string>
+    <string name="txt_volume1">വോളിയം 1 പ്രശ്നം 3</string>
+    <string name="txt_volume2">വോളിയം 2 പ്രശ്നം 3</string>
+    <string name="txt_volume4">വോളിയം 3 പ്രശ്നം 3</string>
+    <string name="txt_volume5">വോളിയം 6 പ്രശ്നം 3</string>
+    <string name="txt_volume6">വോളിയം 7 പ്രശ്നം 3</string>
+    <string name="txt_volume7">വോളിയം 4 പ്രശ്നം 3</string>
+    <string name="txt_volume8">വോളിയം 3 പ്രശ്നം 2</string>
+    <string name="year1">വർഷം 2014</string>
+    <string name="year2">വർഷം 2015</string>
+    <string name="year3">വർഷം 2016</string>
+    <string name="year4">വർഷം 2017</string>
+    <string name="ans_correct">നിങ്ങള്‍ ശരിയാണ്</string>
+    <string name="ans_not_quite">പൂര്ണ്ണ്മായും അല്ല!</string>
+    <string name="btn_done">ചെയ്തു</string>
+    <string name="btn_fact">യാഥാര്ത്ഥ്യം </string>
+    <string name="btn_myth">സങ്കല്പ്പംത</string>
+    <string name="explore">അന്വേഷണം നടത്തുക</string>
+    <string name="getting_question">സെര്വളറില്‍ നിന്ന് ചോദ്യങ്ങള്‍ സ്വീകരിക്കുന്നു</string>
+    <string name="info">വിവരം</string>
+    <string name="myth_or_fact">സങ്കല്പ്പംത അല്ലെങ്കില്‍ യാഥാര്ത്ഥ്യം ?</string>
+    <string name="no_internet">ഇന്റരര്നെ്റ്റ് കണക്ഷന്‍ ലഭ്യമല്ല – ഏറ്റവും പുതിയ സങ്കല്പ്പിങ്ങളും യാഥാര്ത്ഥ്യതങ്ങളും ലഭിക്കാന്‍ ഇന്റ ര്നെററ്റുമായി ബന്ധിപ്പിക്കുക</string>
+    <string name="please_wait">ദയവായി കാത്തിരിക്കുക...</string>
+    <string name="str_ok">ശരി</string>
+    <string name="str_verify_ans">നിങ്ങളുടെ ഉത്തരം സ്ഥിരീകരിക്കുന്നു</string>
+    <string name="that_s_it_for_today_n_why_not_explore">ഇത് ഇന്നത്തേക്കുള്ളതാണ്. എന്തുകൊണ്ട് അന്വേഷിക്കുന്നില്ല?.</string>
+    <string name="your_score">താങ്കളുടെ സ്കോര്‍</string>
+
+
+</resources>

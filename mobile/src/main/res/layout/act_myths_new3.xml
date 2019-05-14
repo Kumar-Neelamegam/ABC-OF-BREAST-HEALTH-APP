@@ -1,0 +1,160 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CircleProgressView="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:frisson="http://schemas.android.com/tools"
+    android:id="@+id/parent_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pinkclr">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:id="@+id/total_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="35dip"
+            android:layout_marginLeft="25dip"
+            android:layout_marginRight="25dip"
+            android:layout_marginTop="35dp"
+            android:background="#80ffffff"
+            android:orientation="vertical">
+
+
+            //************************************************************
+            //1.
+
+            <LinearLayout
+                android:id="@+id/mf_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <!--  <android.support.v7.widget.CardView
+                      android:id="@+id/card_view"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:animateLayoutChanges="true"
+                      app:cardBackgroundColor="#ffffff"
+                      app:cardCornerRadius="5dp">-->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+
+                        android:layout_width="match_parent"
+                        android:id="@+id/title_txt"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="@string/that_s_it_for_today_n_why_not_explore"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/pinkclr">
+
+                    </TextView>
+
+
+                </LinearLayout>
+
+
+
+                //************************************************************
+                //2.
+
+                <LinearLayout
+                    android:id="@+id/progress_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="15dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+
+                        <at.grabner.circleprogress.CircleProgressView
+                            android:id="@+id/circleView"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_centerHorizontal="true"
+                            CircleProgressView:cpv_autoTextSize="true"
+                            CircleProgressView:cpv_barColor="#f557c1"
+                            CircleProgressView:cpv_direction="CW"
+                            CircleProgressView:cpv_barWidth="8dip"
+                            CircleProgressView:cpv_maxValue="100"
+                            CircleProgressView:cpv_rimColor="#ffbbe9"
+                            CircleProgressView:cpv_rimWidth="0dp"
+                            CircleProgressView:cpv_barStrokeCap="Butt"
+                            CircleProgressView:cpv_showUnit="true"
+                            CircleProgressView:cpv_spinColor="@color/colorPrimaryDark"
+                            CircleProgressView:cpv_startAngle="95"
+                            CircleProgressView:cpv_textColor="#f557c1"
+                            CircleProgressView:cpv_textScale="1"
+                            CircleProgressView:cpv_unit="%"
+                            CircleProgressView:cpv_unitColor="#f557c1"
+                            CircleProgressView:cpv_unitPosition="right_bottom"
+                            CircleProgressView:cpv_unitScale="1"
+                            CircleProgressView:cpv_value="0" />
+
+
+                        <TextView
+                            android:id="@+id/textView6"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentTop="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="28dp"
+                            android:text="@string/your_score"
+                            android:textColor="#f557c1" />
+
+
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+                //************************************************************
+
+
+                <LinearLayout
+                    android:id="@+id/explore_layout"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:layout_marginTop="25dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/explore_btn"
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/round_shape"
+                        android:text="@string/explore"
+                        android:textColor="#fff" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            //************************************************************
+            //2.
+
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

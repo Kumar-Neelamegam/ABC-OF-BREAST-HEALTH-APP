@@ -1,0 +1,54 @@
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="#fff"
+    android:padding="3dp"
+    app:cardBackgroundColor="@color/blue"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+       <!-- <ImageView
+            android:id="@+id/country_photo"
+            android:layout_width="match_parent"
+            android:layout_height="150dip"
+            android:scaleType="centerCrop"
+            <com.android.volley.toolbox.NetworkImageView
+            android:src="@drawable/bg7" />-->
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="150dip"
+            android:scaleType="centerCrop"
+            android:id="@+id/country_photo"
+            app:layout_collapseMode="parallax"
+            />
+        <TextView
+            android:id="@+id/country_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:maxLines="3"
+            android:padding="5dp"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentTop="false"
+            android:layout_below="@+id/country_photo"
+            android:background="@color/pinkclr2"
+            android:gravity="center"
+            android:text="-"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

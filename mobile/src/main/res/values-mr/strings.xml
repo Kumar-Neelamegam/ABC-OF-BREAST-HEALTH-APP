@@ -1,0 +1,106 @@
+﻿<resources>
+    <string name="app_name">स्तनाचा आरोग्य</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="footer_txt">Powered by Devatech Info Systems Pvt. Ltd.</string>
+
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf</string>
+    <string name="download">Tap to start download</string>
+    <string name="asset_on_sd">Asset on SD card example</string>
+    <string name="asset_on_xml">Asset on XML example</string>
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="std_example">PdfViewPager examples</string>
+    <string name="ready">Ready to download</string>
+    <string name="legacy_pdf">Legacy PDF Example (Pre-Lollipop)</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded_wait">Download Complete. Now opening PDF, Wait a moment please...</string>
+    <string name="flaticon_attr">BTW, all icons are from www.flaticon.com</string>
+    <string name="txt1">This is a PDF document, declared on XML, set up by code.</string>
+    <string name="menu_sample2_txt">Open remote PDF sample</string>
+    <string name="menu_sample3_txt">PDF on your SD sample</string>
+    <string name="menu_sample4_txt">PDF as asset (code) sample</string>
+    <string name="menu_sample5_txt">PDF as asset (XML) sample</string>
+    <string name="menu_sample6_txt">Pre-lollipop PDF download and launch</string>
+    <string name="menu_sample8_txt">Zoomable PDF (PhotoView)</string>
+    <string name="menu_sample9_txt">Example with initial scale</string>
+    <string name="dummy_msg">This sample PDF here &gt;&gt;\nis declared by code</string>
+    <string name="zoomable_asset_on_xml">Zoomable PDF on XML Example</string>
+    <string name="page_was_clicked">Page was clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="style"></string>
+
+
+
+    <string name="title_txt">Title</string>
+    <string name="txt_about"><![CDATA[<p>हरकत नाही, आपल्या वयाच्या, तो काय वाट्टेल ते सामान्य आणि काय वाट्टेल ते नाही शिकता येते निरोगी आपल्या छाती ठेवणे. हे दु: ख चिन्हे असू शकते, असे बदल देखावा वर ठेवेल. </ P>
+<P> आपल्या शरीराच्या कोणत्याही भागावर जसे, जीवन वेगवेगळ्या टप्प्यात येथे अपेक्षा काय शोधण्यासाठी. </ P>
+<P> "आपल्या छाती पहायला आणि काहीतरी suddently भिन्न असल्यास आपल्याला ओळखण्यात मदत होऊ शकते काय कारण आम्हांला माहीत आहे," पामेला Peeke, एमडी, महिला लाइफ शरीर लेखक म्हणतात. "तशाच प्रकारे आपण आपली त्वचा करण्यासाठी लक्ष द्या आणि नवीन moles पाहण्यासाठी, आपण आपल्या स्तन लक्ष देणे आवश्यक आहे." </ P>
+<P> आपले डॉक्टर आपल्याला वार्षिक भेट आपण एक स्तन परीक्षा देऊ शकतात, आणि कसे घरी एक स्वत: ची परीक्षा तुम्हाला शिकवावे. स्तन परीक्षा वाचवू किंवा पूर्वी कर्करोग ओळखू संशोधन दाखवा एकाग्रतेने केलेला चांगला, पण अनेक डॉक्टर अद्याप त्यांना शिफारस आणि त्याच्या नेहमी एक चांगली कल्पना आपल्या शरीरात याची जाणीव असू आणि आपण कोणत्याही बदल लक्षात तर आपल्या डॉक्टरांना कळवा. </ p>
+<P> <strong> काय वाट्टेल ते सामान्य, काय वाट्टेल ते नाही </ strong> <br कधी कधी आपल्या स्तन "योग्य" दिसत नका की त्यांना काळजी वाटेल /> <br />. पण गोष्टी महिला सर्वात प्रत्यक्षात असामान्य नाहीत काळजी, Peeke म्हणतात.</p>
+]]></string>
+
+    <string name="title_about">बद्दल</string>
+    <string name="title_breastcancer">स्तनाचा कर्करोग</string>
+    <string name="title_benign">सस्तनाच्या निरूपद्रवी समस्या</string>
+    <string name="title_pink">पिंक कनेक्शन</string>
+    <string name="title_inspir">जीवनासाठी जागरूकता</string>
+
+
+
+    <string name="information">माहिती</string>
+    <string name="message">आपली खात्री आहे की मधून निर्गमन करू इच्छिता?</string>
+    <string name="yes">होय</string>
+    <string name="no">नाही
+</string>
+    <string name="nodata_available">नवीन मान्यता / तथ्य अद्यतनित रहा इंटरनेट सह कनेक्ट करा</string>
+    <string name="language">भाषा</string>
+    <string name="ok">
+ठीक आहे</string>
+    <string name="read_more">अधिक वाचा</string>
+    <string name="title_video">जीवनासाठी जागरूकता</string>
+    <string name="novideo">व्हिडिओ या भाषेसाठी उपलब्ध</string>
+    <string name="title_video1">स्तनाच्या कर्करोगाबद्दल जागृती - व्हिडिओ</string>
+    <string name="nointernet">इंटरनेट जोडणी .. नंतर प्रयत्न करा ..</string>
+    <string name="instruct">* सामग्री झूम पुढील पृष्ठ चिमूटभर हलवा स्वाइप करा *</string>
+    <string name="runtime_permissions_txt">अॅप सेटिंग्जमधील सर्व परवानग्या सक्षम करा.</string>
+    <string name="swipe">पुढील पृष्ठ हलविण्याचा स्वाइप करा</string>
+    <string name="title_home">मुखपृष्ठ</string>
+    <string name="title_myths">गैरसमज आणि वस्तुस्थिती</string>
+    <string name="zoom">सामग्री झूम चोरणे</string>
+    <string name="txt_mnth1">नोव्हेंबर - जानेवारी</string>
+    <string name="txt_mnth2">फेब्रुवारी - एप्रिल</string>
+    <string name="txt_mnth3">मे - जुलै</string>
+    <string name="txt_mnth4">ऑगस्ट - ऑक्टोबर</string>
+    <string name="txt_volume1">खंड 1 समस्या 3</string>
+    <string name="txt_volume2">खंड 2 समस्या 3</string>
+    <string name="txt_volume4">खंड 3 समस्या 3</string>
+    <string name="txt_volume5">खंड 6 समस्या 3</string>
+    <string name="txt_volume6">खंड 7 समस्या 3</string>
+    <string name="txt_volume7">खंड 4 समस्या 3</string>
+    <string name="txt_volume8">खंड 3 समस्या 3</string>
+    <string name="year1">वर्ष 2014</string>
+    <string name="year2">वर्ष 2015</string>
+    <string name="year3">वर्ष 2016</string>
+    <string name="year4">वर्ष 2017</string>
+    <string name="ans_correct">तुम्ही बरोबर आहात   </string>
+    <string name="ans_not_quite">यापैकी नाही! </string>
+    <string name="btn_done">पूर्ण </string>
+    <string name="btn_fact">वस्तुस्थिती</string>
+    <string name="btn_myth">समज</string>
+    <string name="explore">अन्वेषण </string>
+    <string name="getting_question">सर्व्हर प्रश्न  प्रश्न मिळवणे   </string>
+    <string name="info">माहिती </string>
+    <string name="myth_or_fact">समज किंवा वस्तुस्थिती? </string>
+    <string name="no_internet">इंटरनेट  कनेक्ट उपलब्ध नाही  - अद्यावत समज/वस्तुस्थितीशी अद्यतन राहण्यासाठी इंटरनेट ला कनेक्ट करा   </string>
+    <string name="please_wait">कृपया थांबा...   </string>
+    <string name="str_ok">ठीक आहे   </string>
+    <string name="str_verify_ans">आपले उत्तर तपासा   </string>
+    <string name="that_s_it_for_today_n_why_not_explore">आज साठी एवढेच .अजून एक्सप्लोर करूया का?   </string>
+    <string name="your_score">आपली धावसंख्या   </string>
+
+
+</resources>

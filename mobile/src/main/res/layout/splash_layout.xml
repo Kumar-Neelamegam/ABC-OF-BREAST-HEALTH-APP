@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:background="#FEFCFF"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_weight="1"
+        android:scaleType="fitCenter"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:alpha="0"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="55dp"
+        android:background="@drawable/main_logo_splash" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <com.github.ybq.android.spinkit.SpinKitView
+
+            android:id="@+id/spin_kit"
+            style="@style/SpinKitView.Large.FoldingCube"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:SpinKit_Color="@color/colorAccent" />
+
+        <TextView
+            android:id="@+id/textprgrs"
+            android:text="Hello"
+            android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:padding="5dp"
+            android:gravity="center"
+            android:textColor="@color/pinkclr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+<!--
+    <at.grabner.circleprogress.CircleProgressView
+        android:id="@+id/circleView"
+        android:layout_width="95dp"
+        android:padding="10dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="15dp"
+        app:cpv_autoTextSize="true"
+        app:cpv_barColor="@color/pink"
+        app:cpv_barWidth="5dp"
+        app:cpv_blockCount="8"
+        app:cpv_blockScale="0.9"
+        app:cpv_contourSize="0dp"
+        app:cpv_maxValue="100"
+        app:cpv_rimColor="@color/white"
+        app:cpv_rimWidth="10dp"
+        app:cpv_showUnit="true"
+        app:cpv_spinColor="@color/pink"
+        app:cpv_textColor="#00f"
+        app:cpv_textScale="1"
+        app:cpv_unit="%"
+        app:cpv_unitColor="@color/white"
+        app:cpv_unitPosition="right_top"
+        app:cpv_unitScale="1"
+        app:cpv_value="0" />-->
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="#90FFFFFF"
+        android:padding="5dp"
+        android:text="@string/footer_txt"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#3d5987"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

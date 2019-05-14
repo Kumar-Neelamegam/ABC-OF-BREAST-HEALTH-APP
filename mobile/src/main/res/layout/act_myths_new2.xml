@@ -1,0 +1,114 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CircleProgressView="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:frisson="http://schemas.android.com/tools"
+    android:id="@+id/parent_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pinkclr">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:id="@+id/total_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="35dip"
+            android:layout_marginLeft="25dip"
+            android:layout_marginRight="25dip"
+            android:layout_marginTop="35dp"
+            android:background="#80ffffff"
+            android:orientation="vertical">
+
+
+            //************************************************************
+            //1.
+
+            <LinearLayout
+                android:id="@+id/mf_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <!--  <android.support.v7.widget.CardView
+                      android:id="@+id/card_view"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:animateLayoutChanges="true"
+                      app:cardBackgroundColor="#ffffff"
+                      app:cardCornerRadius="5dp">-->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/title_txt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:padding="10dp"
+                        android:text="Not Quite!"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/pinkclr">
+
+                    </TextView>
+
+
+                </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/tv_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:lineSpacingExtra="5dp"
+                    android:padding="10dp"
+                    android:text="“Two per cent of the Indian women suffering from cancer are in 20 to 30 years age group, 16 per cent are in 30 to 40, 28 per cent are in 40 to 50 age group.
+
+So, almost 46 per cent women patients are below 50,”  Sameer Kaul, senior consultant of Surgical Oncology at Indraprastha Apollo Hospital, Delhi, was quoted by the Indo-AsianNewsService as saying.
+
+He added that a matter of concern is that an increasing number of female cancer patients are in the age group of 25-40 years."
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#000">
+
+                </TextView>
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="25dp"
+                    android:orientation="horizontal">
+
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1" />
+
+                    <Button
+                        android:id="@+id/done_btn"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_myths1"
+                        android:text="Done"
+                        android:textColor="#f557c1" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

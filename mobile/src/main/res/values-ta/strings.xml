@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">மார்பக உடல்நலம்</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="footer_txt">Powered by Devatech Info Systems Pvt. Ltd.</string>
+
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://partners.adobe.com/public/developer/en/xml/AdobeXMLFormsSamples.pdf</string>
+    <string name="download">Tap to start download</string>
+    <string name="asset_on_sd">Asset on SD card example</string>
+    <string name="asset_on_xml">Asset on XML example</string>
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="std_example">PdfViewPager examples</string>
+    <string name="ready">Ready to download</string>
+    <string name="legacy_pdf">Legacy PDF Example (Pre-Lollipop)</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded_wait">Download Complete. Now opening PDF, Wait a moment please...</string>
+    <string name="flaticon_attr">BTW, all icons are from www.flaticon.com</string>
+    <string name="txt1">This is a PDF document, declared on XML, set up by code.</string>
+    <string name="menu_sample2_txt">Open remote PDF sample</string>
+    <string name="menu_sample3_txt">PDF on your SD sample</string>
+    <string name="menu_sample4_txt">PDF as asset (code) sample</string>
+    <string name="menu_sample5_txt">PDF as asset (XML) sample</string>
+    <string name="menu_sample6_txt">Pre-lollipop PDF download and launch</string>
+    <string name="menu_sample8_txt">Zoomable PDF (PhotoView)</string>
+    <string name="menu_sample9_txt">Example with initial scale</string>
+    <string name="dummy_msg">This sample PDF here &gt;&gt;\nis declared by code</string>
+    <string name="zoomable_asset_on_xml">Zoomable PDF on XML Example</string>
+    <string name="page_was_clicked">Page was clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="title_txt">Title</string>
+
+
+        <string name="txt_about"><![CDATA[<P> விஷயம் உங்கள் வயது, அது என்ன சாதாரண மற்றும் என்ன இல்லை அறிய உதவுகிறது ஆரோக்கியமான உங்கள் மார்பகங்களை வைத்து. அது பிரச்சனை அறிகுறிகள் இருக்க முடியும் என்று மாற்றங்கள் தேடினார் நீங்கள் வைக்கும். </ P>
+<P> உங்கள் உடலின் எந்த பகுதியில் போன்ற, வாழ்க்கை பல்வேறு நிலைகளில் எதிர்பார்ப்பது என்ன கண்டுபிடிக்க. </P>
+<P> "உங்கள் மார்பகங்களை இருக்க என்ன மாதிரி ஏதாவது suddently வெவ்வேறு இருக்கும் போது நீங்கள் அங்கீகரிக்க உதவ முடியும் உணர தெரிந்தும்," பமீலா Peeke, எம்.டி., மகளிர் வாழ்க்கை உடல் ஆசிரியர் கூறுகிறார். "நீங்கள் உங்கள் தோல் கவனம் செலுத்த அதே வழியில் மற்றும் புதிய உளவாளிகளை பார்க்க, நீங்கள் உங்கள் மார்பகங்களை கவனம் செலுத்த வேண்டும்." </ P>
+<P> உங்கள் மருத்துவர் உங்கள் வருடாந்திர வருகையின் நீங்கள் ஒரு மார்பக தேர்வு கொடுக்க கூடும், மற்றும் எப்படி வீட்டில் ஒரு சுய தேர்வு செய்ய நீங்கள் கற்று இருக்கலாம். மார்பக சோதனைகள் உயிர்களை காப்பாற்ற அல்லது முந்தைய புற்றுநோய் காரணிகள் தென்படலாம் என்று ஆராய்ச்சி காட்ட இல்லை, ஆனால் பல மருத்துவர்கள் இன்னும், அவர்கள் பரிந்துரை மற்றும் அதன் எப்போதும் ஒரு நல்ல யோசனை உங்கள் உடல் பற்றி எச்சரிக்கையாக இருக்க வேண்டும் மற்றும் நீங்கள் எந்த மாற்றங்களை கவனிக்க என்றால் உங்கள் மருத்துவர் தெரியப்படுத்துங்கள். </ p>
+<P> <strong> என்ன சாதாரண, </p> என்ன இல்லை /> <br நீங்கள் சில நேரங்களில் உங்கள் மார்பக "உரிமை" பார்க்க இல்லை என்று கவலை /> <br. ஆனால் விஷயங்கள் பெண்கள் உண்மையில் அந்த அசாதாரண இல்லை பற்றி கவலை மிகவும், Peeke என்கிறார். </P>
+]]></string>
+
+
+    <string name="title_about">எங்ளைப் பற்றி</string>
+    <string name="title_breastcancer">மார்பகப் புற்றுநோய் </string>
+    <string name="title_benign">தீங்கற்ற மார்பகப்\nபிரச்சனைகள்</string>
+    <string name="title_pink">இளஞ்சிவப்பு இணைப்பு</string>
+    <string name="title_inspir">தூண்டுதலாக</string>
+
+
+
+    <string name="information">தகவல்</string>
+    <string name="message">நிச்சயமாக வெளியேற வேண்டுமா?
+</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை
+</string>
+    <string name="nodata_available">இந்த தரவு கிடைக்கவில்லை</string>
+    <string name="language">மொழி</string>
+    <string name="ok">சரி</string>
+    <string name="read_more">மேலும் படிக்க</string>
+    <string name="title_video">வாழ்க்கைப் பற்றிய விழிப்புணர்வு</string>
+    <string name="novideo">வீடியோ எதுவும் கிடைக்கவில்லை இந்த மொழி </string>
+    <string name="title_video1">மார்பக புற்றுநோய் விழிப்புணர்வு - வீடியோக்கள்</string>
+    <string name="nointernet">இணைய இணைப்பு இல்லை .. பின்னர் முயற்சி ..</string>
+    <string name="instruct">* உள்ளடக்கத்தை பெரிதாக்க அடுத்த பக்கம் சிட்டிகை நகர்த்துவதற்கு ஸ்வைப் *</string>
+    <string name="runtime_permissions_txt">பயன்பாட்டை அமைப்புகளை இருந்து அனைத்து அனுமதிகளை இயக்கவும்.</string>
+    <string name="swipe">அடுத்த பக்கம் செல்ல ஸ்வைப்</string>
+    <string name="title_home">முகப்பு</string>
+    <string name="title_myths">கட்டுக்கதைகளும்  &amp;\nஉண்மைகளும்</string>
+    <string name="title_myths2">கட்டுக்கதைகளும்\nஉண்மைகளும்</string>
+    <string name="zoom">உள்ளடக்கம் பெரிதாக்க சிட்டிகை</string>
+    <string name="txt_mnth1">நவம்பர் - ஜனவரி</string>
+    <string name="txt_mnth2">பிப்ரவரி - ஏப்ரல்</string>
+    <string name="txt_mnth3">பிப்ரவரி - ஏப்ரல்</string>
+    <string name="txt_mnth4">ஆகஸ்ட் - அக்டோபர்</string>
+    <string name="txt_volume1">தொகுதி 1 இதழ் 3</string>
+    <string name="txt_volume2">தொகுதி 2 இதழ் 3</string>
+    <string name="txt_volume4">தொகுதி 3 இதழ் 3</string>
+    <string name="txt_volume5">தொகுதி 6 இதழ் 3</string>
+    <string name="txt_volume6">தொகுதி 7 இதழ் 3</string>
+    <string name="txt_volume7">தொகுதி 4 இதழ் 3</string>
+    <string name="txt_volume8">தொகுதி 3 இதழ் 3</string>
+    <string name="year1">ஆண்டு 2014</string>
+    <string name="year2">ஆண்டு 2015</string>
+    <string name="year3">ஆண்டு 2016</string>
+    <string name="year4">ஆண்டு 2017</string>
+    <string name="ans_correct">நீங்கள்சொன்னதுசரி</string>
+    <string name="ans_not_quite">சரியானதுஅல்ல</string>
+    <string name="btn_done">முடிந்தது</string>
+    <string name="btn_fact">உண்மை</string>
+    <string name="btn_myth">மாயை</string>
+    <string name="explore">மேலும்கண்டறியவும்</string>
+    <string name="getting_question">சர்வரிலிருந்துகேள்விகளைப்பெறுகிறோம்</string>
+    <string name="info">தகவல்</string>
+    <string name="myth_or_fact">மாயையாஉண்மையா?</string>
+    <string name="no_internet">இன்டர்னெட்கனெக்ஷன்இல்லை - சமீபத்தியமாயை/ உண்மையைத்தெரிந்துகொள்வதற்குஇன்டர்னெட்டுடன்இணையவும்.</string>
+    <string name="please_wait">தயவுசெய்துகாத்திருக்கவும்</string>
+    <string name="str_ok">சரி</string>
+    <string name="str_verify_ans">உங்கள்பதிலைச்சரிபார்க்கவும்</string>
+    <string name="your_score">உங்கள்ஸ்கோர்</string>
+    <string name="that_s_it_for_today_n_why_not_explore">இன்றையதினத்திற்குஇதுபோதுமானது.நீங்கள்ஏன்இன்னும் கண்டறியக்கூடாது?</string>
+
+
+</resources>

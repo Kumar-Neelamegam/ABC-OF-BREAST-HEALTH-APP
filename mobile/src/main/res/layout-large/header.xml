@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:diagonal="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/litepink"
+    android:orientation="vertical"
+    android:scrollbars="none"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="horizontal">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:id="@+id/relativelay"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_gravity="center"
+                    android:id="@+id/imageView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#fff"
+                    android:padding="10dp"
+                    android:src="@drawable/ubf_header" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="#00f"
+                    android:autoLink="web"
+                    android:textColorLink="#00f"
+                    android:padding="10dp"
+                    android:text="@string/weblink"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:id="@+id/textView2"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="130dp" />
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+            <!--<LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center">
+
+
+                <ImageView
+                    android:id="@+id/profile_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="center"
+                    android:src="@drawable/dr_img" />
+            </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/username"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/email"
+                    android:layout_alignLeft="@+id/profile_image"
+                    android:layout_alignStart="@+id/profile_image"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="Dr P. Raghu Ram"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/pinkclr"
+                    android:textStyle="bold" />
+
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/username"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignStart="@+id/username"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="MS, FRCS (Edinburgh), FRCS (England), FRCS (Glasgow), FRCS (Ireland), FACS"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/username"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignStart="@+id/username"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="Padma Shri awardee"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/pinkclr" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/username"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignStart="@+id/username"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="CEO &amp; Director\nUshalakshmi Breast Cancer Foundation"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/username"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignStart="@+id/username"
+                    android:autoLink="web"
+                    android:textColorLink="#00f"
+                    android:gravity="center"
+                    android:textColor="#00f"
+                    android:padding="10dp"
+                    android:text="@string/weblink"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>-->
+
+
+    </LinearLayout>
+
+
+</ScrollView>

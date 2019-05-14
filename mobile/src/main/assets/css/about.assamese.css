@@ -1,0 +1,246 @@
+﻿
+		  body,p{
+
+font-size:18px !important;
+padding:0px;
+margin:0px;
+line-height:normal;
+word-break:keep-all;  
+margin-left: 5px;
+margin-right: 5px;
+ text-align: justify;
+ 
+line-height: 1.5;
+}
+		 
+	@font-face
+	{
+		font-family: MyFont1;
+		src: url("../fonts/assamese.ttf")
+	}
+	
+	
+ 
+ @media all and (max-width: 1000px) and (min-width: 100px) {
+            .h2 {
+                background: #c7007f;
+                color: white;
+                text-align: center;
+                font-family: MyFont1;
+                display: inline-block;
+                margin: 15px auto;
+				padding: 10px 10px;
+                font-size: 16px;
+            }
+				.align2 {
+                text-align: center;
+                font-weight: bold; 
+                font-family: MyFont1; 
+            }
+
+            .ribbon {
+                background: #d4118c;
+                display: inline-block;
+                font-family: MyFont1;
+                line-height: 28px;
+                padding: 14px 30px;
+                font-size: 24px;
+                text-transform: uppercase;
+                position: relative;
+                margin: 10px auto;
+                color: #fff;
+            }
+
+            html * {
+                font-family: MyFont1;
+                font-size: 20px;
+                font-weight: normal;
+                line-height: 1.5;
+                margin-left: 10px;
+                margin-right: 10px;
+                text-align: justify;
+				
+            }
+            .h5 {
+                font-size: 8px;
+                font-weight: bold;
+                line-height: 10px;
+                background-color: #EAECEE;
+                margin-left: 0px;
+                margin-right: 3px;
+            }
+
+            .align {
+                text-align: center;
+                font-weight: bold;
+				 font-size: 16px;
+                /*font-weight: normal;*/
+                font-family: MyFont1;
+					color: #00F;
+            }
+            
+			.align1 {
+                text-align: center;
+                font-weight: bold;
+				
+                /*font-weight: normal;*/
+                font-family: MyFont1; 
+            }
+			
+            .div2 {
+                width: 200px;
+                height: 50px;
+                padding: 40px;
+            }
+			
+			 pre span {
+                color: #c7007f;
+                font-weight: bold;
+            }
+        }
+		
+		
+		
+		
+		
+		
+		 @media all and (max-width: 640px) and (min-width: 100px) {
+            .h2 {
+                background: #c7007f;
+                color: white;
+                text-align: center;
+                font-family: MyFont1;
+                display: inline-block;
+                margin: 15px auto;
+				padding: 10px 10px;
+                font-size: 14px;
+            }
+			
+			
+				.align2 {
+                text-align: center;
+                font-weight: bold; 
+                font-family: MyFont1; 
+            }
+
+            .ribbon {
+                background: #d4118c;
+                display: inline-block;
+                font-family: MyFont1;
+                line-height: 28px;
+                padding: 14px 30px;
+                font-size: 18px;
+                text-transform: uppercase;
+                position: relative;
+                margin: 10px auto;
+                color: #fff;
+            }
+
+            html * {
+                font-family: MyFont1;
+                font-size: 16px;
+                font-weight: normal;
+                line-height: 1.5;
+                margin-left: 10px;
+                margin-right: 10px;
+                text-align: justify;
+            }
+            .h5 {
+                font-size: 6px;
+                font-weight: bold;
+                line-height: 10px;
+                background-color: #EAECEE;
+                margin-left: 0px;
+                margin-right: 3px;
+            }
+
+            .align {
+                text-align: center;
+                font-weight: bold;
+				 font-size: 12px;
+                /*font-weight: normal;*/
+                font-family: MyFont1;
+					color: #00F;
+            }
+            
+			.align1 {
+                text-align: center;
+                font-weight: bold;
+				
+                /*font-weight: normal;*/
+                font-family: MyFont1; 
+            }
+			
+            .div2 {
+                width: 200px;
+                height: 50px;
+                padding: 40px;
+            }
+			
+			 pre span {
+                color: #c7007f;
+                font-weight: bold;
+            }
+        }
+		
+		
+		
+		
+		
+		
+
+        @media all and (min-width: 1151px) and (min-width: 700px) {
+            .h2 {
+                background: #c7007f;
+                color: white;
+                text-align: center;
+				padding: 10px 10px
+                font-family: MyFont1;
+                display: inline-block;
+                margin: 5px auto;
+                font-size: 30px;
+
+            }
+				.align2 {
+                text-align: center;
+                font-weight: bold; 
+                font-family: MyFont1; 
+            }
+            html * {
+                font-family: MyFont1;
+                font-size: 18px;
+                font-weight: normal;
+                line-height: 1.5;
+                margin-left: 10px;
+                margin-right: 10px;
+                text-align: justify;
+            }
+            .align {
+                text-align: center;
+                font-weight: bold;
+				
+                /*font-weight: normal;*/
+                font-family: MyFont1;
+				color: #00F;
+            }
+			.align1 {
+                text-align: center;
+                font-weight: bold;
+				
+                /*font-weight: normal;*/
+                font-family: MyFont1; 
+            }
+            .div2 {
+                width: 300px;
+                height: 50px;
+                padding: 40px;
+              
+            }
+			
+			 pre span {
+                color: #c7007f;
+                font-weight: bold;
+            }
+        }
+
+      

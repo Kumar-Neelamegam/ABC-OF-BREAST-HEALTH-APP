@@ -1,0 +1,82 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+
+    lintOptions {
+        checkReleaseBuilds false//to
+    }
+
+    defaultConfig {
+        applicationId "devatech.kims"
+        minSdkVersion 16
+        targetSdkVersion 24
+        versionCode 2
+        versionName "1.0"
+        testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false// Remove Unused Resource
+          proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        targetCompatibility 1.7
+        sourceCompatibility 1.7
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(path: ':sweetAlert')
+
+    compile files('libs/gson-2.2.4.jar')
+    compile files('libs/ksoap2.jar')
+    compile files('libs/ftp4j-1.6.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/httpclientandroidlib-1.2.1.jar')
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
+    //compile project(':coverflow')
+    compile rootProject.ext.appCompat
+    compile rootProject.ext.cardView
+    compile rootProject.ext.designCompat
+    //**********************************************************************************************
+    //compile 'de.hdodenhof:circleimageview:1.3.0'
+    //compile 'com.joanzapata.pdfview:android-pdfview:1.0.4@aar'
+    //compile 'com.github.michaldrabik:tapbarmenu:1.0.5'
+    //compile 'com.github.florent37:diagonallayout:1.0.2'
+    /*   compile 'com.android.support:appcompat-v7:24.2.1'
+        compile 'com.android.support:design:24.2.1'
+        compile 'com.android.support:cardview-v7:24.2.1'
+        compile 'com.android.support:support-v4:24.2.1'*/
+    compile 'com.mcxiaoke.volley:library-aar:1.0.0'
+    compile 'com.github.ybq:Android-SpinKit:1.1.0'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.easing:library:1.0.1@aar'
+    compile 'com.daimajia.androidanimations:library:1.1.3@aar'
+    //compile 'com.github.barteksc:android-pdf-viewer:2.3.0'
+    compile 'com.github.jakob-grabner:Circle-Progress-View:v1.3'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    //Ponnusamy
+    compile 'com.google.firebase:firebase-config:10.0.1'
+    compile 'com.google.firebase:firebase-messaging:10.0.1'
+    //Notifications
+    compile 'com.google.firebase:firebase-crash:10.0.1'
+    //Crash Report
+    testCompile 'junit:junit:4.12'
+   // compile files('libs/PdfViewer.jar')
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+}
+
+
+
+
+
+
+
+apply plugin: 'com.google.gms.google-services'
